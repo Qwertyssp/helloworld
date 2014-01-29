@@ -3,7 +3,7 @@
  Author: shangshipe
  Email: shangshipei@163.com
  File Name: a.c
- Description: (C)  2013-05  findstr
+ Description: (C)  2013-05  shang
    
  Edit History: 
    2013-05-15    File created.
